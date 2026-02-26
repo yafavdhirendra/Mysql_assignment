@@ -9,3 +9,7 @@ Tables:
 - Membership
 
 Includes JOIN operations and ER Diagram.
+
+# Author
+- **Dhirendra Yadav** - 1st year Student
+- Softwarica College og IT and E-Commerce Kathmandu (**NEPAL**)
