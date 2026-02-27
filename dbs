@@ -1,0 +1,14 @@
+# in this section to create all items;
+
+# Create a database, use
+CREATE DBS_NAME;
+
+# FOR use databases, use
+USE DBS_NAME;
+
+# FOR show databases, use
+SHOW DATABASES;
+
+# FOR show tables, use
+SHOW TABLES;
+
