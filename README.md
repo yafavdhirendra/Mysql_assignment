@@ -1,7 +1,7 @@
 # MySQL Club Management System
 
 This project demonstrates database normalization (1NF, 2NF, 3NF)
-using MySQL 8.0 in Docker.
+using MySQL 8.0 in Docker And also learn about basic of mysql
 
 Tables:
 - Student
